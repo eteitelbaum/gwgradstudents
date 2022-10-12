@@ -42,7 +42,7 @@ superuser: true
 title: Albert Einstein
 ---
 
-Albert Einstein is a professor of physics at Princeton's Institute for Advanced Study....
+Albert Einstein is a professor of physics at Princeton's Institute for Advanced Study.... He likes to play the violin and updating his bio on his website. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
