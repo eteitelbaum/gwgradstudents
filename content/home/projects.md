@@ -28,7 +28,7 @@ content:
   - name: All
     tag: '*'
   - name: Deep Learning
-    tag: Deep Learning
+    tag: Deep Learning Project
   - name: Other
     tag: Demo
 
